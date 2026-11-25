@@ -1,0 +1,1 @@
+{"description":"One-Line Office Joke Laugh-Off — one original one-line joke about office life.","license":"MIT","name":"makefun-office-joke-laughoff-20261125","private":true,"scripts":{"start":"node main.ts","test":"node --test test.mjs"},"type":"module","version":"1.0.0"}
